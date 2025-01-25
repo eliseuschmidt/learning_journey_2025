@@ -18,4 +18,4 @@
   
   - [Como o Deepseek Supera a OpenAI e Está Mudando as Regras do Jogo - YouTube](https://youtu.be/uXRMum-Z01U?si=QCQklZCWn3aLEoNQ)
   
-  - 
+  
