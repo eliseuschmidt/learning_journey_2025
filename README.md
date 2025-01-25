@@ -11,7 +11,7 @@ Este repositório documenta meu aprendizado em 2025. Aqui você encontrará nota
     * curso da Escola do Trabalhador 4.0
     * início: 25/01/2025
     * certificados:
-      * [Certificate_486853_233_1a96x.pdf - Google Drive](https://drive.google.com/file/d/1UIHzASpOcZLaFzM2XESb6yDHfMSswRJf/view?usp=drive_link)
+      * [Certificate_486853_233_ib60i.pdf - Google Drive](https://drive.google.com/file/d/1NHbGIbNABYL8oKVgBmqzrMa0G2Gdtiix/view?usp=drive_link)
 * **recursos:**
   * ferramentas
     * DeepSeek (deepseek.md)
