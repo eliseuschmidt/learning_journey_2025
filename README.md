@@ -10,8 +10,7 @@ Este repositório documenta meu aprendizado em 2025. Aqui você encontrará nota
   * **Inteligência Artificial:**
     * curso da Escola do Trabalhador 4.0
     * início: 25/01/2025
-    * certificados:
-      * [Certificate_486853_233_ib60i.pdf - Google Drive](https://drive.google.com/file/d/1NHbGIbNABYL8oKVgBmqzrMa0G2Gdtiix/view?usp=drive_link)
+    * arquivo: inteligencia_artificial.md
 * **recursos:**
   * ferramentas
     * DeepSeek (deepseek.md)
