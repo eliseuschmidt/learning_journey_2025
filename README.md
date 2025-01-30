@@ -11,6 +11,10 @@ Este repositório documenta meu aprendizado em 2025. Aqui você encontrará nota
     * curso da Escola do Trabalhador 4.0
     * início: 25/01/2025
     * arquivo: inteligencia_artificial.md
+  * **WordPress**
+    * curso online 170 aulas
+    * inicio: 29/01/2025
+    * arquivo: wordpress.md
 * **recursos:**
   * ferramentas
     * DeepSeek (deepseek.md)
