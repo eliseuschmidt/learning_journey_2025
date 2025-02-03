@@ -18,6 +18,8 @@ Este repositório documenta meu aprendizado em 2025. Aqui você encontrará nota
 * **recursos:**
   * ferramentas
     * DeepSeek (deepseek.md)
+    * Visual Studio Code (vscode.md)
+    * AppSheet (appsheet.md)
 
 ## Contato
 
