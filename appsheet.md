@@ -4,6 +4,10 @@
 Uma breve visão geral do que é o AppSheet e sua importância no cenário tecnológico atual.
 [Get started with AppSheet](https://support.google.com/appsheet/answer/11581986?visit_id=638742141166575591-251034524&p=get-started&rd=1)
 
+## Building No-Code Apps with AppSheet: Foundations
+- Introdution (05/02/2025)
+- AppSheet Overview (05/02/2025)
+
 ## Objetivos
 - Entender o básico do AppSheet
 - Aprender a criar e gerenciar aplicativos
