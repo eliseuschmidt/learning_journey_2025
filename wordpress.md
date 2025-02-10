@@ -12,3 +12,7 @@
 - aula 8: Como Configurar Página Inicial
 - aula 9: Configurando Página de Blog
 - aula 10: Layout de Páginas de Posts
+- aula 11: Posts Relacionados
+- aula 12: Configurando Barra Lateral
+- aula 13: Configurando Cabeçalho
+- aula 14: Ícone do Site
