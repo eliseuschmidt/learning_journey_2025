@@ -16,3 +16,9 @@
 - aula 12: Configurando Barra Lateral
 - aula 13: Configurando Cabeçalho
 - aula 14: Ícone do Site
+- aula 15: Configurando Rodapé
+- aula 16: Editor de Blocos Gutenberg
+- aula 17: Grupo
+- aula 18: Colunas
+- aula 19: Título, Texto e Botão
+- aula 20: Imagem
