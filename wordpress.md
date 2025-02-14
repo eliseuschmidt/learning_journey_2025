@@ -22,3 +22,11 @@
 - aula 18: Colunas
 - aula 19: Título, Texto e Botão
 - aula 20: Imagem
+- aula 21: Grade
+- aula 22: Seção de Conteúdo
+- aula 23: Duplicando Blocos
+- aula 24: Posts Recentes
+- aula 25: Remover espaço em branco da página
+- aula 26: Como publicar seu site
+- aula 27: Ajustando o site para dispositivos móveis
+- aula 28: vale a pena usar o Gutenberg?
