@@ -30,3 +30,12 @@
 - aula 26: Como publicar seu site
 - aula 27: Ajustando o site para dispositivos móveis
 - aula 28: vale a pena usar o Gutenberg?
+- aula 29: O que é Plugin
+- aula 30: Spectra - Construtor de páginas para editor de blocos
+- aula 31: Como personalizar layout para cada dispositivos
+- aula 32: Diferença entre margem e padding
+- aula 33: Como usar divisor
+- aula 34: Blocos avançados para exibição de Posts
+- aula 35: Bloco para chamada de automação
+- aula 36: Bloco de informação
+- aula 37: Plano de fundo com Imagem
