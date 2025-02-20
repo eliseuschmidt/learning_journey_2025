@@ -39,3 +39,9 @@
 - aula 35: Bloco para chamada de automação
 - aula 36: Bloco de informação
 - aula 37: Plano de fundo com Imagem
+- aula 38: Cabeçalho transparente
+- aula 39: Container de tela inteira
+- aula 40: Ajustes de Design
+- aula 41: Seção de portfólio
+- aula 42: Container estilo cartão
+- aula 43: Como criar formulário de contato
