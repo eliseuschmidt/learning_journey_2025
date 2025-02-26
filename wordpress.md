@@ -45,3 +45,9 @@
 - aula 41: Seção de portfólio
 - aula 42: Container estilo cartão
 - aula 43: Como criar formulário de contato
+- aula 44: Seção de perguntas frequentes
+- aula 45: Galeria de fotos
+- aula 46: Traduzir Temas
+
+### WordPress e Elementor 2025
+- Como criar um site com WordPress e Elementor
