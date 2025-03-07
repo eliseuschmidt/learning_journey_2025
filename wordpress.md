@@ -51,3 +51,8 @@
 
 ### WordPress e Elementor 2025
 - Como criar um site com WordPress e Elementor
+- Instalar o Elementor
+- O que é Elementor
+- Como usar Container
+- Como usar título, texto e botão 
+- Criando a seção de serviços 

@@ -8,13 +8,17 @@ Este repositório documenta meu aprendizado em 2025. Aqui você encontrará nota
 
 * **cursos:**
   * **Inteligência Artificial:**
-    * curso da Escola do Trabalhador 4.0
+    * curso online
     * início: 25/01/2025
     * arquivo: inteligencia_artificial.md
   * **WordPress**
     * curso online 170 aulas
     * inicio: 29/01/2025
     * arquivo: wordpress.md
+  * **Bash**
+    * curso online 
+    * inicio: 05/03/2025
+    * arquivo: bash.md
 * **recursos:**
   * ferramentas
     * DeepSeek (deepseek.md)
@@ -37,10 +41,5 @@ Eliseu Schmidt
 * PostgreSQL
 * Python
 * JavaScript
-
-## Histórico de versões
-
-* **v1.0 (24/01/2025):** Criação inicial.
-* **v1.1 (25/01/2025):** Inteligência Artificial
 
 # 

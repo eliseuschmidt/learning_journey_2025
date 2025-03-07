@@ -7,6 +7,7 @@ Uma breve visão geral do que é o AppSheet e sua importância no cenário tecno
 ## Building No-Code Apps with AppSheet: Foundations
 - Introdution (05/02/2025)
 - AppSheet Overview (05/02/2025)
+- Getting Started (06/02/2025)
 
 ## Objetivos
 - Entender o básico do AppSheet
