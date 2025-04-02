@@ -19,6 +19,10 @@ Este repositório documenta meu aprendizado em 2025. Aqui você encontrará nota
     * curso online 
     * inicio: 05/03/2025
     * arquivo: bash.md
+  * **Curso Técnico da Plataforma SaveinCloud**
+    * curso online 
+    * inicio: 02/04/2025
+    * arquivo: saveincloud.md
 * **recursos:**
   * ferramentas
     * DeepSeek (deepseek.md)

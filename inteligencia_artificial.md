@@ -38,3 +38,6 @@
 - Simulador de conversas humanas 
 - PLN - Processamento de Linguagem Natural
 - Tokens - a base da linguagem para a IA
+- Perplexity IA
+- Prompt: o pilar da interação em IA
+- Gemini vs ChatGPT
