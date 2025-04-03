@@ -28,3 +28,23 @@
   19. Criando instâncias Linux ou Windows
   20. Criando instâncias com Docker e Kubernetes
   21. Criação de novos Ambientes utilizando a opção Importar
+- Seção 6: Criação de ambientes do Marketplace
+  22. Explorando as opções do Marketplace
+- Seção 7: Opções de gestão dos ambientes criados
+  23. Entendendo o conceito de Ambiente e Nó
+  24. Como utilizar corretamente os apontamentos de IPs
+  25. Botões de controle dos ambientes
+  26. Endpoints: como funciona esse recurso
+  27. Nomeação, TAGs e organização dos ambientes
+  28. Compartilhando ambientes com outros usuários
+- Seção 8: Opções de gestão de nós criados
+  29. Compreendendo as informações exibidas na tela para cada nó
+  30. Overview nas opções de controle de nós de todos os tipos de camadas
+  31. Explorando os principais Add-ons da plataforma
+- Seção 9: Deploy das aplicações
+  32. Tipos de deploy possíveis na camada de aplicação
+  33. Utilizando o Gestor de Implementações
+  34. Realizando o deploy através de um repositório GIT
+- Seção 10: Precificação e controle financeiro
+  35. Endentendo a cobrança na SaveinCloud
+  36. Como dimensionar o custo do ambiente
