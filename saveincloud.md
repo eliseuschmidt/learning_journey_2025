@@ -48,3 +48,14 @@
 - Seção 10: Precificação e controle financeiro
   35. Endentendo a cobrança na SaveinCloud
   36. Como dimensionar o custo do ambiente
+  37. Como monitorar/controlar o consumo financeiro dos ambientes
+  38. Como configurar os meios de pagamento e cobranças recorrentes
+  39. Como converter sua conta
+- Seção 11: Extras
+  40. Instrodução de como monitorar os ambientes
+  41. Snapshot de ambientes
+  42. Introdução a Clusters e Alta Disponibilidade
+  43. Navegando nas pastas/arquivos dos ambientes
+  44. Olhando os logs dos ambientes
+  45. Gráfico de uso dos recurso computacionais
+  46. Criando storages e mapeando pastas entre Nós

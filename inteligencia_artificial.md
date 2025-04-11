@@ -12,6 +12,7 @@
 - Processamento de Linguagem Natural 
 - Aprendizado Supervisionado e Não-Supervisionado 
 - Algoritmos
+- Como ser mais produtivo usando IA
 
 ### Inteligência Artificial Generativa
 
@@ -21,7 +22,7 @@
 - Conversão de texto para imagem com o uso de IA Generativa
 - A IA e o futuro do mercado de trabalho
 
-### Aulas
+### Curso em Video
 
 - O que é IA?
 - Como uma IA funciona?
