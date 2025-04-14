@@ -59,3 +59,9 @@
   44. Olhando os logs dos ambientes
   45. Gráfico de uso dos recurso computacionais
   46. Criando storages e mapeando pastas entre Nós
+  47. Introdução à Backups
+  48. Configurando Cron e Rotinas
+  49. Acessando SSH
+  50. Apontamento de domínios/DNS
+  51. Utilizando Cloudflare na camada de DNS
+  

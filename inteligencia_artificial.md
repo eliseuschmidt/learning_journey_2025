@@ -13,6 +13,7 @@
 - Aprendizado Supervisionado e Não-Supervisionado 
 - Algoritmos
 - Como ser mais produtivo usando IA
+- Ética em Inteligência Artificial
 
 ### Inteligência Artificial Generativa
 
@@ -42,3 +43,15 @@
 - Perplexity IA
 - Prompt: o pilar da interação em IA
 - Gemini vs ChatGPT
+- Chatbots vs Buscadores
+- Napkin - Organizador de Ideias - Ilustração
+- IAs Generativas: Matemática, Metáforas e Mitos
+- Design de Prompt: Introdução a Engenharia de Prompt
+- Aplicando a Engenharia de Prompt na prática
+- Otimize os estudos e pesquisas com o NotebookLM
+- Prompts de atuação: atribuindo papéis para IAs (Role Prompting)
+- Interações com modelos de IA
+- Integração de técnicas para amplificar resultados
+
+### A vantagem da IA generativa
+## Livro digital fornecido pela AWS

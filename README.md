@@ -12,7 +12,7 @@ Este repositório documenta meu aprendizado em 2025. Aqui você encontrará nota
     * início: 25/01/2025
     * arquivo: inteligencia_artificial.md
   * **WordPress**
-    * curso online 170 aulas
+    * curso online
     * inicio: 29/01/2025
     * arquivo: wordpress.md
   * **Bash**
@@ -22,7 +22,13 @@ Este repositório documenta meu aprendizado em 2025. Aqui você encontrará nota
   * **Curso Técnico da Plataforma SaveinCloud**
     * curso online 
     * inicio: 02/04/2025
+    * fim: 12/04/2025
     * arquivo: saveincloud.md
+  * **Power BI - Introdução**
+    * curso online
+    * inicio: 07/04/2025
+    * fim: 10/04/2024
+    * Empowerdata
 * **recursos:**
   * ferramentas
     * DeepSeek (deepseek.md)
@@ -45,5 +51,6 @@ Eliseu Schmidt
 * PostgreSQL
 * Python
 * JavaScript
+* Power BI
 
 # 
