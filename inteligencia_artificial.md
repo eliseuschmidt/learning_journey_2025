@@ -14,6 +14,7 @@
 - Algoritmos
 - Como ser mais produtivo usando IA
 - Ética em Inteligência Artificial
+- Copilot (Microsoft)
 
 ### Inteligência Artificial Generativa
 
@@ -52,6 +53,8 @@
 - Prompts de atuação: atribuindo papéis para IAs (Role Prompting)
 - Interações com modelos de IA
 - Integração de técnicas para amplificar resultados
+- Formalizando prompts
+- Aprender a conversar com robôs
 
 ### A vantagem da IA generativa
 ## Livro digital fornecido pela AWS

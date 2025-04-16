@@ -53,4 +53,3 @@ Eliseu Schmidt
 * JavaScript
 * Power BI
 
-# 
